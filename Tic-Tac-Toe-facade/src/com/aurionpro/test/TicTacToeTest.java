@@ -12,6 +12,5 @@ public class TicTacToeTest {
         TikTacToe game = new TikTacToe(size);
         game.playGame();
         scanner.close();
-        //
     }
 }
