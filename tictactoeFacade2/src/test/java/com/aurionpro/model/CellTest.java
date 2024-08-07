@@ -30,5 +30,6 @@ class CellTest {
 		assertEquals(MarkType.O, cell.getMark());
 	}
 	
+	//cell exception tested in board
 
 }
